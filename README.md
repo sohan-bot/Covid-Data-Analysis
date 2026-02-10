@@ -74,7 +74,7 @@ The analysis is based on time-series data containing:
 ## 👤 Author
 **Sohan**
 * [GitHub Profile](https://github.com/sohan-bot)
-* [LinkedIn](https://www.linkedin.com/in/sohan-phadikar-199191)
+* [LinkedIn](https://www.linkedin.com/in/sohan-phadikar-199a19191)
 
 ---
 *This project is for educational and analytical purposes.*
